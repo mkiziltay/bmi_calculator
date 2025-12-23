@@ -1,16 +1,12 @@
-# bmi_calculators
+# BMI Calculator [![Build Status](https://travis-ci.org/MarcinusX/bmi_calculator.svg?branch=master)](https://travis-ci.org/MarcinusX/bmi_calculator)
 
-A new Flutter project.
+Implementation of [Johny Vino](https://dribbble.com/johnyvino)'s [design](https://dribbble.com/shots/3558444-BMI-Calculator).
+## Design(s):
+![Design](https://marcinszalek.pl/wp-content/uploads/2018/11/ezgif.com-resize.gif)![Design2](https://cdn.dribbble.com/users/997070/screenshots/5033686/johnyvino_upload_4x.png)
+## Implementation:
+![Implementation](final_result.gif)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Questions?
+Contact me at mkiziltay
